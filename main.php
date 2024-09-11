@@ -1,4 +1,4 @@
 <?php
-echo "Hello jhon doe"
-echo "ini massage"
+echo "Hello jhon doe";
+echo "ini massage";
 ?>
